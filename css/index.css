@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.codearea {
+    background-color: #000;
+    color: #fff;
+    font-family: consolas, courier;
+    width: 100%;
+    height: 100vh;
+    outline: none;
+    border: none;
+}
